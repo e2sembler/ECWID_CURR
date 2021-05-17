@@ -1,0 +1,11 @@
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\Icon.ico
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\Config.config
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\ECWID_CURR.exe
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\ECWID_CURR.pdb
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\saven\source\repos\ECWID_CURR\Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\saven\source\repos\ECWID_CURR\Test\obj\Release\ECWID_CURR.csproj.CoreCompileInputs.cache
+C:\Users\saven\source\repos\ECWID_CURR\Test\obj\Release\ECWID_CURR.csproj.CopyComplete
+C:\Users\saven\source\repos\ECWID_CURR\Test\obj\Release\ECWID_CURR.exe
+C:\Users\saven\source\repos\ECWID_CURR\Test\obj\Release\ECWID_CURR.pdb
+C:\Users\saven\source\repos\ECWID_CURR\Test\obj\Release\ECWID_CURR.csprojResolveAssemblyReference.cache

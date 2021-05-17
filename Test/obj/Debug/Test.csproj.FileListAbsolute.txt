@@ -1,0 +1,6 @@
+C:\Users\saven\source\repos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\saven\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\saven\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\saven\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\saven\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\saven\source\repos\Test\Test\obj\Debug\Test.pdb
